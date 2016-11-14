@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Networking App</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Get Data</item>
+        <item>Play Video</item>
+        <item>Fetch Content</item>
+    </string-array>
+    <string name="title_activity_drawer_item_custom_adapter">DrawerItemCustomAdapter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_btn_download">Download</string>
+    <string name="str_iv_description">Downloaded Image</string>
+    <string name="str_tv_url">http://coderzheaven.com/sample_folder/sample_file.png</string>
+    <string name="get_data">Get Data</string>
+    <string name="play_video">Play Video</string>
+    <string name="show_content">Show Content</string>
+    <string name="download">Downloading Files.....</string>
+    <string name="files_downloaded">Files are Downloaded</string>
+    <string name="error"> "Error in creating fragment"</string>
+
+
+</resources>
